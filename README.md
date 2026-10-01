@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Matthew!</h1>
+<h1>Hello, My name is Matthew Stafford!</h1>
 <h3>Front-End Developer</h3>
 <p>
 Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
