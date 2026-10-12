@@ -4,6 +4,9 @@
 <p>
 Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
 </p>
+<p>
+  Check my Medium blogs to discover how I handled the bigger project <a href="https://medium.com/@mgstafford">Click Here</a>
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer" alt="Typing animation" />
 </div>
 <div align="center">
