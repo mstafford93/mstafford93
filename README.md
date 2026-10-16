@@ -98,12 +98,21 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
   </tr>
 </table>
 
-<h2>GitHub Analytics</h2>
-<div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mstafford93&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
-</div>
-
-<h3>Visitor Count</h3>
+<h2>GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mstafford93&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstafford93&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+<h2>Connect With Me</h2>
+<p align="center">
+  <a href="www.linkedin.com/in/matthew-stafford-7a44522b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mgstafford@hotmail.co.uk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+<p align="center">Thanks for stopping by. Feel free to explore the repos or reach out!</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mstafford93&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
 </div>
