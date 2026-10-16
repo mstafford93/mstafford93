@@ -133,7 +133,7 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
   <thead>
     <tr>
       <th>Area</th>
-      <th>What I want to acheieve</th>
+      <th>What I want to achieve</th>
     </tr>
   </thead>
   <tbody>
