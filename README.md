@@ -128,6 +128,33 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
     </td>
   </tr>
 </table>
+<h2>Thing I want to improve</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>What I want to acheieve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Continue knowledge of my current skills</strong></td>
+      <td>I am never satisfied with what I know and am aware I can always learn more.</td>
+    </tr>
+    <tr>
+      <td><strong>Create my own game with HTML, CSS and JavaScript</strong></td>
+      <td>I have many ideas and love playing games, I want to have the knowledge to make basic game concepts.</td>
+    </tr>
+    <tr>
+      <td><strong>Learn TypeSript</strong></td>
+      <td>I am fairly new to coding and would like to use TypeScript to improve my projects</td>
+    </tr>
+    <tr>
+      <td><strong>Eventually learn Back-End</strong></td>
+      <td>After cementing my Front-End knowledge I would like to explore Back-End development</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>GitHub Stats</h2>
 <p align="center">
