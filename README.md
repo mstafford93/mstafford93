@@ -53,6 +53,37 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS, Azure"/>
 </p>
+<h2>Skills at a Glance</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>What I can do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Web Layout and Design</strong></td>
+      <td>Creating visually appealing web designs with flexbox, CSS Grid and responsive layout concepts.</td>
+    </tr>
+    <tr>
+      <td><strong>Communicaton</strong></td>
+      <td>Clear verbal communication, adapting explainitions depending on the audience.</td>
+    </tr>
+    <tr>
+      <td><strong>Adaptability</strong></td>
+      <td>Changing to the demands of others to make a smooth and easy trasition.</td>
+    </tr>
+    <tr>
+      <td><strong>Problem Sovling</strong></td>
+      <td>Looking at a problem and segmenting a project into separate part to discover the problem, and create a solution</td>
+    </tr>
+    <tr>
+      <td><strong>Time Management</strong></td>
+      <td>Being able to use my time effectively, and segment parts of a project into different time slots</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Featured Projects</h2>
 <table>
