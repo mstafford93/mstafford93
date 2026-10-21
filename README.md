@@ -2,7 +2,7 @@
 <h1>Hello, My name is Matthew Stafford!</h1>
 <h3>Front-End Developer</h3>
 <p>
-Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
+Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
 </p>
 <p>
   Check my Medium blogs to discover how I handled the bigger project <a href="https://medium.com/@mgstafford">Click Here</a>
@@ -95,7 +95,7 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
       </p>
       <b>Stack:</b> HTML · Tailwind CSS
       <br/>
-      <a href="https://github.com/mstafford93/architect-portfolio-tailwind">View Project →</a>
+      <a href="architect-portfolio-tailwind-ky151rj9c-mstafford93.vercel.app">Live Demo →</a>
     </td>
     <td width="50%">
       <h3>ITOL Vault</h3>
@@ -104,7 +104,7 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
       </p>
       <b>Stack:</b> HTML · CSS · JavaScript
       <br/>
-      <a href="https://github.com/mstafford93/ITOL-Vault-Project">View Project →</a>
+      <a href="itol-vault-project-jq8i40mel-mstafford93.vercel.app">Live Demo →</a>
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
       </p>
       <b>Stack:</b> React Vite . CSS
       <br/>
-      <a href="https://github.com/mstafford93/investment-calc-vite">View Project →</a>
+      <a href="investment-calc-vite-v1dgku1zh-mstafford93.vercel.app">Live Demo →</a>
     </td>
     <td>
       <h3>Web Application UI</h3>
@@ -124,7 +124,7 @@ Aspiring Front-End Developer working with — HTML, CSS, JavaScript, React and C
       </p>
       <b>Stack:</b> HTML . CSS
       <br/>
-      <a href="https://github.com/mstafford93/C13-Web-Application-UI">View Project →</a>
+      <a href="c13-web-application-fhrny2ddq-mstafford93.vercel.app">Live Demo →</a>
     </td>
   </tr>
 </table>
