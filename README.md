@@ -36,7 +36,7 @@ Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQGHOZqgXfEI1A/profile-displayphoto-scale_400_400/B4EZ8tqNllK4Ak-/0/1783177470927?e=1792627200&v=beta&t=0PbkQ9U3-B2XiZhiglrseaPPomX-N7GrY8xTmuzM98Q" alt="Profile photo" width="200" style="border-radius: 50%;"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4E35AQHhNdPsuq0FVA/profile-framedphoto-shrink_400_400/B4EaGCMem0IEAY-/0/1793185672152?e=1793793600&v=beta&t=ZxGvIXGjgcCl4XOIEzJ3S7zRzujedJTOnOzH9Pl70Ts" alt="Profile photo" width="200" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>
