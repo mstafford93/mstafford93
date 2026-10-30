@@ -24,7 +24,7 @@ Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an <strong>Front-End Developer</strong> with a passion for the internet, and web developement.</p>
+    <p>I am a <strong>Front-End Developer</strong> with a passion for the internet, and web developement.</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Front-End Development (HTML, CSS, JavaScript, React)</li
