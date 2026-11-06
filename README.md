@@ -36,7 +36,7 @@ Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="https://media.licdn.com/dms/image/v2/D4E35AQHhNdPsuq0FVA/profile-framedphoto-shrink_400_400/B4EaGCMem0IEAY-/0/1793185672152?e=1793793600&v=beta&t=ZxGvIXGjgcCl4XOIEzJ3S7zRzujedJTOnOzH9Pl70Ts" alt="Profile photo" width="200" style="border-radius: 50%;"/>
+      <img src="https://avatars.githubusercontent.com/u/153217779?v=4" alt="Profile photo" width="200" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>
@@ -76,11 +76,11 @@ Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
     </tr>
     <tr>
       <td><strong>Problem Sovling</strong></td>
-      <td>Looking at a problem and segmenting a project into separate part to discover the problem, and create a solution</td>
+      <td>Looking at a problem and segmenting a project into separate part to discover the problem, and create a solution.</td>
     </tr>
     <tr>
       <td><strong>Time Management</strong></td>
-      <td>Being able to use my time effectively, and segment parts of a project into different time slots</td>
+      <td>Being able to use my time effectively, and segment parts of a project into different time slots.</td>
     </tr>
   </tbody>
 </table>
