@@ -118,13 +118,13 @@ Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
       <a href="investment-calc-vite-v1dgku1zh-mstafford93.vercel.app">Live Demo →</a>
     </td>
     <td>
-      <h3>Web Application UI</h3>
+      <h3>Task Manager</h3>
       <p>
-      One of my starting project working with only with HTML and CSS to provide a responsive website that scales with the size of the browser.
+      My first React project outside of my course programme, no prior instructions, adds and remove tasks uses local storage to keep inputted data.
       </p>
-      <b>Stack:</b> HTML . CSS
+      <b>Stack:</b> React Vite . CSS
       <br/>
-      <a href="c13-web-application-fhrny2ddq-mstafford93.vercel.app">Live Demo →</a>
+      <a href="https://task-manager-flax-nu.vercel.app/">Live Demo →</a>
     </td>
   </tr>
 </table>
