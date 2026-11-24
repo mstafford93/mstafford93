@@ -1,13 +1,13 @@
 <div align="center">
 <h1>Hello, My name is Matthew Stafford!</h1>
-<h3>Front-End Developer</h3>
+<h3>Front-End Developer / Web Devloper</h3>
 <p>
 Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
 </p>
 <p>
   Check my Medium blogs to discover how I handled the bigger project <a href="https://medium.com/@mgstafford">Click Here</a>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer" alt="Typing animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer;Web+Developer" alt="Typing Animation" /></a>
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/matthew-stafford-7a44522b4/">
@@ -138,16 +138,16 @@ Front-End Developer working with — HTML, CSS, JavaScript, React and Cloud.
   </thead>
   <tbody>
     <tr>
+      <td><strong>Currently Learn TypeScript</strong></td>
+      <td>I am fairly new to coding and am learning to use TypeScript to improve my projects</td>
+    </tr>
+    <tr>
       <td><strong>Continue knowledge of my current skills</strong></td>
       <td>I am never satisfied with what I know and am aware I can always learn more.</td>
     </tr>
     <tr>
       <td><strong>Create my own game with HTML, CSS and JavaScript</strong></td>
       <td>I have many ideas and love playing games, I want to have the knowledge to make basic game concepts.</td>
-    </tr>
-    <tr>
-      <td><strong>Learn TypeSript</strong></td>
-      <td>I am fairly new to coding and would like to use TypeScript to improve my projects</td>
     </tr>
     <tr>
       <td><strong>Eventually learn Back-End</strong></td>
